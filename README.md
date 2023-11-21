@@ -1,5 +1,6 @@
 # Aegix dmenu
 
+Borrowed from Luke.
 Extra stuff added to vanilla dmenu:
 
 - reads Xresources (ergo pywal compatible)
