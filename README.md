@@ -1,4 +1,4 @@
-# TANKLINUX dmenu
+# Aegix dmenu
 
 Extra stuff added to vanilla dmenu:
 
